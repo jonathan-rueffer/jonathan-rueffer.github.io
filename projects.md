@@ -19,7 +19,7 @@ Awarded Honors, Wooster's highest evaluation, and presented as a talk and poster
 [Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis (PDF)](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf)
 
 <figure class="project-figure">
-  <img src="/assets/img/ckks-pareto.png" alt="Pareto frontier of runtime versus precision for candidate CKKS parameter sets">
+  <img src="/assets/img/Diabetes_full.png" alt="Pareto frontier of runtime versus precision for candidate CKKS parameter sets">
   <figcaption>Runtime vs. precision trade-offs across candidate parameter sets.</figcaption>
 </figure>
 
