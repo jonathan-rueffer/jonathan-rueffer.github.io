@@ -23,20 +23,24 @@ The thesis was awarded Honors, Wooster's highest evaluation, and presented as a 
 
 I have since extended this work with additional experiments, and a manuscript is in preparation.
 
-[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis (PDF)](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf)
+[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf) · [Poster](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_Poster_JonathanRueffer.pdf) · [Slides](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_OralPresentation_JonathanRueffer.pdf)
 
 </div>
 
 <div class="project-card" markdown="1">
 
 ### Music Journal: A Platform for Song-Based Memories
-<p class="project-meta">Junior Independent Study & Personal Project · 2025</p>
+<p class="project-meta">Junior Independent Study & Personal Project · 2025-2026</p>
 
-A full-stack application for associating songs with personal memories, organized by when and where a song was heard, the emotions it evokes, and the life events it belongs to. I developed the original web application as my Junior Independent Study at The College of Wooster, using KeyBERT keyword extraction to generate title suggestions from journal entries.
+A full-stack application for associating songs with personal memories, organized by when and where a song was heard, the emotions it evokes, and the life events it belongs to. I developed the original web application as part of my Junior Independent Study on NLP and Information Extraction at The College of Wooster. The application integrates the Spotify API for song information and uses KeyBERT keyword extraction to generate title suggestions from journal entries. 
+
+[Code](https://github.com/jonathan-rueffer/music-journal-web) · [Paper](https://github.com/jonathan-rueffer/music-journal-web/blob/main/docs/JuniorIS_JonathanRueffer.pdf) · [Presentation](https://github.com/jonathan-rueffer/music-journal-web/blob/main/docs/JuniorIS_JonathanRueffer_Presentation.pdf) 
+
+---
 
 I have since begun rebuilding it as a multi-user mobile application with Spotify OAuth authentication and per-user data isolation enforced through PostgreSQL row-level security. The architecture is serverless: the client communicates directly with the database, a serverless function manages token refresh so credentials never ship in the app, and a relational schema supports many-to-many relationships between songs and user-defined life events.
 
-[Mobile App Code](https://github.com/jonathan-rueffer/music-journal-mobile) · [Web App Code](https://github.com/jonathan-rueffer/music-journal-web)
+[Code](https://github.com/jonathan-rueffer/music-journal-mobile) 
 
 
 </div>
