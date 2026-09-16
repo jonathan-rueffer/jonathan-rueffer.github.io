@@ -25,7 +25,7 @@ machine learning.
 - **May 2026** Inducted into Phi Alpha Theta, the national history honor society.
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
 - **May 2025** Completed my Junior Independent Study, building a music journaling app and using  NLP to analyze journal entries.
-- **Dec 2024** Completed the Budapest Semesters in Mathematics, an study abroad program in advanced mathematics.
+- **Dec 2024** Completed the Budapest Semesters in Mathematics, a study abroad program in advanced mathematics.
 - **Mar 2024** Inducted into Pi Mu Epsilon, the national mathematics honor society.
 
 
