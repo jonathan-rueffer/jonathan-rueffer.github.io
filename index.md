@@ -25,6 +25,7 @@ machine learning.
 - **May 2026** Inducted into Phi Beta Kappa, the nation's oldest academic honor society.
 - **May 2026** Inducted into Phi Alpha Theta, the national history honor society.
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
+- **Aug 2025** Completed an IT internship at Nucleonova in Valencia, Spain, building Android and web apps to replace the company's spreadsheet-based inventory system.
 - **May 2025** Completed my Junior Independent Study, building a music journaling app and using  NLP to analyze journal entries.
 - **Dec 2024** Completed the Budapest Semesters in Mathematics, a study abroad program in advanced mathematics.
 - **Aug 2024** Completed a summer research project with UMD's Laboratory for Physical Sciences on inferring hardware characteristics through microbenchmarking.
