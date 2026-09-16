@@ -31,6 +31,32 @@ I have since extended this work with additional experiments, and a manuscript is
 
 <div class="project-card" markdown="1">
 
+### Computer Hardware Analysis for Automated System Modeling
+<p class="project-meta">Summer Research Associate · AMRE Program, The College of Wooster · 2024</p>
+
+Under a funded contract with the University of Maryland's Laboratory for Physical Sciences, our three-student team explored how to identify the hardware characteristics of an unknown computer system using only performance measurements.
+
+The developed microbenchmarks in C and Python probe CPU and cache behavior, and we designed timing-based methods for detecting properties such as cache size and associativity. Our team delivered a final technical report, a client presentation, and a documented codebase.
+
+Advised by Prof. Robert Kelvey (The College of Wooster) and Prof. Nathan Sommer (Xavier University).
+
+[Code](https://github.com/AMRE-LPS/AMRE-2024-LPS)
+
+</div>
+
+<div class="project-card" markdown="1">
+
+### Inventory Management App
+<p class="project-meta">IT Intern · Nucleonova, Valencia, Spain · 2025</p>
+
+Nucleonova is a nuclear engineering procurment company based in Spain. Their engineering inventory lived in a large, hard-to-manage Excel spreadsheet that took minutes to load and could not be sent to potential clients. I replaced it with an Android app and a web app that let staff quickly find and browse the company's inventory.
+
+I built multi-field search and composable filters over the company's raw engineering codes, with English and Spanish localization for a bilingual team and clientele. I shipped features in weekly cycles and refined the interface based on feedback from stakeholders.
+
+</div>
+
+<div class="project-card" markdown="1">
+
 ### Music Journal: A Platform for Song-Based Memories
 <p class="project-meta">Junior Independent Study & Personal Project · The College of Wooster · 2025-2026</p>
 
@@ -47,20 +73,6 @@ I have since begun rebuilding it as a multi-user mobile application with Spotify
 
 </div>
 
-<div class="project-card" markdown="1">
-
-### Computer Hardware Analysis for Automated System Modeling
-<p class="project-meta">Summer Research Associate · AMRE Program, The College of Wooster · 2024</p>
-
-Under a funded contract with the University of Maryland's Laboratory for Physical Sciences, our three-student team explored how to identify the hardware characteristics of an unknown computer system using only performance measurements.
-
-The developed microbenchmarks in C and Python probe CPU and cache behavior, and we designed timing-based methods for detecting properties such as cache size and associativity. Our team delivered a final technical report, a client presentation, and a documented codebase.
-
-Advised by Prof. Robert Kelvey (The College of Wooster) and Prof. Nathan Sommer (Xavier University).
-
-[Code](https://github.com/AMRE-LPS/AMRE-2024-LPS)
-
-</div>
 
 <style>
 .project-card {
