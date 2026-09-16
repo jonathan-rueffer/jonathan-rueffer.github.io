@@ -2,6 +2,7 @@
 layout: page
 title: Hi, I'm Jonathan
 subtitle: M.S. Student in Computer Science · University of Maryland
+share-title: Jonathan Rueffer
 ---
 
 I'm a first-year M.S. student in Computer Science at the University of Maryland,
