@@ -29,15 +29,15 @@ I have since extended this work with additional experiments, and a manuscript is
 
 <div class="project-card" markdown="1">
 
-### JuniorIS: Music Journaling App
-<p class="project-meta">Junior Independent Study · The College of Wooster · 2025</p>
+### Music Journal: A Platform for Song-Based Memories
+<p class="project-meta">Junior Independent Study & Personal Project · 2025–Present</p>
 
-[One or two sentences on what the app does and how it uses NLP.]
-[Optional: a sentence on the current rebuild.]
+A full-stack application for associating songs with personal memories, organized by when and where a song was heard, the emotions it evokes, and the life events it belongs to. I developed the original web application as my Junior Independent Study at The College of Wooster, using KeyBERT keyword extraction to generate title suggestions from journal entries.
 
-<p class="project-tags"><span>[Language/Framework]</span><span>NLP</span><span>Mobile</span></p>
+I have since begun rebuilding it as a multi-user mobile application with Spotify OAuth authentication and per-user data isolation enforced through PostgreSQL row-level security. The architecture is serverless: the client communicates directly with the database, a serverless function manages token refresh so credentials never ship in the app, and a relational schema supports many-to-many relationships between songs and user-defined life events.
 
-[Code](LINK)
+[Mobile App Code](https://github.com/jonathan-rueffer/music-journal-mobile) · [Web App Code](https://github.com/jonathan-rueffer/music-journal-web)
+
 
 </div>
 
