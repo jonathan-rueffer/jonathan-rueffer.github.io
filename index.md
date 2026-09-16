@@ -16,13 +16,28 @@ machine learning.
 
 ## News
 
+<div class="news-scroll" markdown="1">
+
 - **Aug 2026** — Started my M.S. in Computer Science at the University of Maryland.
 - **May 2026** — Graduated from The College of Wooster with a B.A. in Computer Science and Mathematics.
-- **May 2026** — Received the highest grade of honors for my senior thesis on privacy-preserving ML.
+- **May 2026** — Received [honor/award name] for my senior thesis on CKKS parameter selection.
+- **[Month Year]** — [Internship, research position, or other experience].
 
-<details markdown="1">
-<summary>Older news</summary>
+</div>
 
-- **[Month Year]** — [Older update].
-
-</details>
+<style>
+.news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 8px;
+}
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+.news-scroll li {
+  margin: 0.4rem 0;
+}
+</style>
