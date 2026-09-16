@@ -19,9 +19,15 @@ machine learning.
 <div class="news-scroll" markdown="1">
 
 - **Aug 2026** Started my M.S. in Computer Science at the University of Maryland.
-- **May 2026** Graduated from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
-- **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on CKKS parameter selection (check it out [here](https://github.com/jonathan-rueffer/ckks-parameter-selection)).
+- **May 2026** Graduated *summa cum laude* from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
+- **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on CKKS parameter selection, and presented it as a talk and a poster at Wooster's 2026 Independent Study Symposium.
+- **May 2026** Inducted into Phi Beta Kappa, the nation's oldest academic honor society.
+- **May 2026** Inducted into Phi Alpha Theta, the national history honor society.
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
+- **May 2025** Completed my Junior Independent Study, building a music journaling app and using  NLP to analyze journal entries.
+- **Dec 2024** Completed the Budapest Semesters in Mathematics, an study abroad program in advanced mathematics.
+- **Mar 2024** Inducted into Pi Mu Epsilon, the national mathematics honor society.
+
 
 </div>
 
