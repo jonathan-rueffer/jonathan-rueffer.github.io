@@ -49,7 +49,7 @@ Advised by Prof. Robert Kelvey (The College of Wooster) and Prof. Nathan Sommer 
 ### Inventory Management App
 <p class="project-meta">IT Intern · Nucleonova, Valencia, Spain · 2025</p>
 
-Nucleonova is a nuclear engineering procurment company based in Spain. Their engineering inventory lived in a large, hard-to-manage Excel spreadsheet that took minutes to load and could not be sent to potential clients. I replaced it with an Android app and a web app that let staff quickly find and browse the company's inventory.
+Nucleonova is a nuclear engineering procurement company. Its inventory lived in a large Excel spreadsheet that was slow to load and couldn't easily be shared with potential clients. I replaced it with an Android app and a web app that let staff quickly search and browse the company's inventory.
 
 I built multi-field search and composable filters over the company's raw engineering codes, with English and Spanish localization for a bilingual team and clientele. I shipped features in weekly cycles and refined the interface based on feedback from stakeholders.
 
