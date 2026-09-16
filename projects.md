@@ -10,20 +10,20 @@ share-title: Projects
 ### Privacy-Preserving Machine Learning: An Automated, Data-Driven Approach to Parameter Selection for Homomorphic Encryption
 <p class="project-meta">Senior Independent Study Thesis · The College of Wooster · 2025-2026</p>
 
-Homomorphic encryption enables machine learning inference on data it never sees, making it particularly useful in privacy-critical contexts, such as in finance or healthcare. However, schemes like CKKS are hard to use in practice because choosing encryption parameters requires extensive domain expertise and manual tuning to balance security, precision, and speed.
+Homomorphic encryption enables machine learning inference on data it never sees, making it particularly valuable in privacy-critical domains, such as finance or healthcare. In practice, however, schemes like CKKS are hard to use because choosing encryption parameters requires extensive domain expertise and manual tuning to balance security, precision, and speed.
 
-I developed a framework that automates this process. From the application-specific dataset and model, it generates candidate parameter configurations, evaluates them using privacy-preserving test vectors, identifies Pareto-optimal trade-offs between runtime and precision at each security level, allowing a user to make informed decisions about various trade-offs.
+I developed a framework that automates this process. Given an application's dataset and model, it generates candidate parameter configurations, evaluates them using privacy-preserving test vectors, and identifies the Pareto-optimal trade-offs between runtime and precision at each security level. From the recommended configurations, users can make an informed decision about parameters that reflect the underlying workload context.
 
-Awarded Honors, Wooster's highest evaluation, and presented as a talk and poster at the Wooster's 2026 Independent Study Symposium.
-
-[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis (PDF)](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf)
+The thesis was awarded Honors, Wooster's highest evaluation, and presented as a talk and poster at the Wooster's 2026 Independent Study Symposium.
 
 <figure class="project-figure">
   <img src="/assets/img/Diabetes_full.png" alt="Pareto frontier of runtime versus precision for candidate CKKS parameter sets">
-  <figcaption>Runtime vs. precision trade-offs across candidate parameter sets.</figcaption>
+  <figcaption>Candidate parameter sets for encrypted inference on the Wisconsin Diabetes dataset, plotted by runtime and error and colored by security level. Open circles mark Pareto-optimal configurations; ✕ marks the tool's recommendation at each level.</figcaption>
 </figure>
 
-I have since extended this work during the summer of 2026 with additional experiments, and a manuscript is in preparation.
+I have since extended this work with additional experiments, and a manuscript is in preparation.
+
+[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis (PDF)](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf)
 
 </div>
 
