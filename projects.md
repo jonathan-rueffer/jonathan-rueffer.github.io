@@ -21,6 +21,8 @@ The thesis was awarded Honors, Wooster's highest evaluation, and presented as a 
   <figcaption>Candidate parameter sets for encrypted inference on the Wisconsin Diabetes dataset, plotted by runtime and error and colored by security level. Open circles mark Pareto-optimal configurations; ✕ marks the tool's recommendation at each level.</figcaption>
 </figure>
 
+Advised by Prof. Alex Nord.
+
 I have since extended this work with additional experiments, and a manuscript is in preparation.
 
 [Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf) · [Poster](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_Poster_JonathanRueffer.pdf) · [Slides](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_OralPresentation_JonathanRueffer.pdf)
@@ -30,7 +32,7 @@ I have since extended this work with additional experiments, and a manuscript is
 <div class="project-card" markdown="1">
 
 ### Music Journal: A Platform for Song-Based Memories
-<p class="project-meta">Junior Independent Study & Personal Project · 2025-2026</p>
+<p class="project-meta">Junior Independent Study & Personal Project · The College of Wooster · 2025-2026</p>
 
 A full-stack application for associating songs with personal memories, organized by when and where a song was heard, the emotions it evokes, and the life events it belongs to. I developed the original web application as part of my Junior Independent Study on NLP and Information Extraction at The College of Wooster. The application integrates the Spotify API for song information and uses KeyBERT keyword extraction to generate title suggestions from journal entries. 
 
@@ -42,6 +44,21 @@ I have since begun rebuilding it as a multi-user mobile application with Spotify
 
 [Code](https://github.com/jonathan-rueffer/music-journal-mobile) 
 
+
+</div>
+
+<div class="project-card" markdown="1">
+
+### Computer Hardware Analysis for Automated System Modeling
+<p class="project-meta">Summer Research Associate · AMRE Program, The College of Wooster · 2024</p>
+
+Under a funded contract with the University of Maryland's Laboratory for Physical Sciences, our three-student team explored how to identify the hardware characteristics of an unknown computer system using only performance measurements.
+
+The developed microbenchmarks in C and Python probe CPU and cache behavior, and we designed timing-based methods for detecting properties such as cache size and associativity. Our team delivered a final technical report, a client presentation, and a documented codebase.
+
+Advised by Prof. Robert Kelvey (The College of Wooster) and Prof. Nathan Sommer (Xavier University).
+
+[Code](https://github.com/AMRE-LPS/AMRE-2024-LPS)
 
 </div>
 
