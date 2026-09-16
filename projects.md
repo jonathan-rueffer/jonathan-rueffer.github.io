@@ -30,7 +30,7 @@ I have since extended this work with additional experiments, and a manuscript is
 <div class="project-card" markdown="1">
 
 ### Music Journal: A Platform for Song-Based Memories
-<p class="project-meta">Junior Independent Study & Personal Project · 2025–Present</p>
+<p class="project-meta">Junior Independent Study & Personal Project · 2025</p>
 
 A full-stack application for associating songs with personal memories, organized by when and where a song was heard, the emotions it evokes, and the life events it belongs to. I developed the original web application as my Junior Independent Study at The College of Wooster, using KeyBERT keyword extraction to generate title suggestions from journal entries.
 
