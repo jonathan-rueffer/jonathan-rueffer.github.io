@@ -12,15 +12,13 @@ History, from The College of Wooster. My senior thesis examined how to make para
 selection for CKKS homomorphic encryption more practical in the context of privacy-preserving 
 machine learning.
 
-**Currently:** starting coursework at UMD and preparing my thesis for publication.
-
 ## News
 
 <div class="news-scroll" markdown="1">
 
 - **Aug 2026** Started my M.S. in Computer Science at the University of Maryland.
 - **May 2026** Graduated from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
-- **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on [CKKS parameter selection](https://github.com/jonathan-rueffer/ckks-parameter-selection).
+- **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on CKKS parameter selectio (check it out [here](https://github.com/jonathan-rueffer/ckks-parameter-selection)).
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
 
 </div>
@@ -63,10 +61,6 @@ machine learning.
   border-radius: 50%;
   background: #fff;
   border: 2px solid var(--news-accent);
-}
-.news-scroll li:first-child::before {
-  background: var(--news-accent);
-  box-shadow: 0 0 0 4px rgba(0, 138, 255, 0.18);
 }
 .news-scroll li > strong:first-child {
   display: block;
