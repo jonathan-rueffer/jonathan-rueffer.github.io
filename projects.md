@@ -40,7 +40,7 @@ The developed microbenchmarks in C and Python probe CPU and cache behavior, and 
 
 Advised by Prof. Robert Kelvey (The College of Wooster) and Prof. Nathan Sommer (Xavier University).
 
-[Code](https://github.com/AMRE-LPS/AMRE-2024-LPS) · [Project Summary](https://wooster.edu/news/2024/11/08/amre-team-laboratory-for-physical-sciences)
+[Code](https://github.com/AMRE-LPS/AMRE-2024-LPS) · <a href="https://wooster.edu/news/2024/11/08/amre-team-laboratory-for-physical-sciences" target="_blank" rel="noopener">Project Summary</a>
 
 </div>
 
