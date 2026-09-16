@@ -10,14 +10,20 @@ share-title: Projects
 ### Privacy-Preserving Machine Learning: An Automated, Data-Driven Approach to Parameter Selection for Homomorphic Encryption
 <p class="project-meta">Senior Independent Study Thesis · The College of Wooster · 2025-2026</p>
 
-[One or two sentences on the problem: choosing CKKS parameters is hard and usually done by hand, which makes encrypted ML difficult to use in practice.]
-[One or two sentences on what you built and what you found.]
+Homomorphic encryption enables machine learning inference on data it never sees, making it particularly useful in privacy-critical contexts, such as in finance or healthcare. However, schemes like CKKS are hard to use in practice because choosing encryption parameters requires extensive domain expertise and manual tuning to balance security, precision, and speed.
 
-Awarded Honors, Wooster's highest evaluation.
+I developed a framework that automates this process. From the application-specific dataset and model, it generates candidate parameter configurations, evaluates them using privacy-preserving test vectors, identifies Pareto-optimal trade-offs between runtime and precision at each security level, allowing a user to make informed decisions about various trade-offs.
 
-<p class="project-tags"><span>Python</span><span>Homomorphic Encryption</span><span>CKKS</span><span>Machine Learning</span></p>
+Awarded Honors, Wooster's highest evaluation, and presented as a talk and poster at the Wooster's 2026 Independent Study Symposium.
 
-[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection)
+[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis (PDF)](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf)
+
+<figure class="project-figure">
+  <img src="/assets/img/ckks-pareto.png" alt="Pareto frontier of runtime versus precision for candidate CKKS parameter sets">
+  <figcaption>Runtime vs. precision trade-offs across candidate parameter sets.</figcaption>
+</figure>
+
+I have since extended this work during the summer of 2026 with additional experiments, and a manuscript is in preparation.
 
 </div>
 
@@ -66,5 +72,20 @@ Awarded Honors, Wooster's highest evaluation.
   border-radius: 999px;
   background: rgba(0, 138, 255, 0.1);
   color: #0066bb;
+}
+  .project-figure {
+  margin: 0.75rem 0 1rem;
+  text-align: center;
+}
+.project-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+}
+.project-figure figcaption {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 0.4rem;
 }
 </style>
