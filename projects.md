@@ -73,13 +73,16 @@ I have since begun rebuilding it as a multi-user mobile application with Spotify
 
 </div>
 
-## Science Communication
+## Selected Writing
 
 <div class="mini-projects" markdown="1">
 
-- **[What Does "Accept All Cookies" Actually Mean?](https://thewoostervoice.spaces.wooster.edu/2026/04/17/what-does-accept-all-cookies-actually-mean/)** · *The Wooster Voice*, 2026
-- **[What Is ChatGPT and How Does It Work?](https://thewoostervoice.spaces.wooster.edu/2025/10/03/what-is-chatgpt-and-how-does-it-work/)** · *The Wooster Voice*, 2025
-- **[DeepSeek: China's Challenge to U.S. AI Domination](https://thewoostervoice.spaces.wooster.edu/2025/02/21/deepseek-chinas-challenge-to-u-s-ai-domination/)** · *The Wooster Voice*, 2025
+- **[What does "accept all cookies" actually mean?](https://thewoostervoice.spaces.wooster.edu/2026/04/17/what-does-accept-all-cookies-actually-mean/)** · *The Wooster Voice*, 2026
+- **[What is the AI bubble and what if it bursts?](https://thewoostervoice.spaces.wooster.edu/2026/02/27/what-is-the-ai-bubble-and-what-if-it-bursts/)** · *The Wooster Voice*, 2026
+- **[There’s more to math than numbers](https://thewoostervoice.spaces.wooster.edu/2026/02/27/theres-more-to-math-than-numbers/)** · *The Wooster Voice*, 2026 · Opinion
+- **[What is cloud computing and how does it work?](https://thewoostervoice.spaces.wooster.edu/2025/11/14/what-is-cloud-computing-and-how-does-it-work/)** · *The Wooster Voice*, 2025
+- **[What is ChatGPT and how does it work?](https://thewoostervoice.spaces.wooster.edu/2025/10/03/what-is-chatgpt-and-how-does-it-work/)** · *The Wooster Voice*, 2025
+- **[DeepSeek: China's challenge to U.S. AI domination](https://thewoostervoice.spaces.wooster.edu/2025/02/21/deepseek-chinas-challenge-to-u-s-ai-domination/)** · *The Wooster Voice*, 2025
 
 </div>
 
