@@ -73,6 +73,18 @@ I have since begun rebuilding it as a multi-user mobile application with Spotify
 
 </div>
 
+## Science Communication
+
+<div class="mini-projects" markdown="1">
+
+- **[What Does "Accept All Cookies" Actually Mean?](https://thewoostervoice.spaces.wooster.edu/2026/04/17/what-does-accept-all-cookies-actually-mean/)** · *The Wooster Voice*, 2026
+- **[What Is ChatGPT and How Does It Work?](https://thewoostervoice.spaces.wooster.edu/2025/10/03/what-is-chatgpt-and-how-does-it-work/)** · *The Wooster Voice*, 2025
+- **[DeepSeek: China's Challenge to U.S. AI Domination](https://thewoostervoice.spaces.wooster.edu/2025/02/21/deepseek-chinas-challenge-to-u-s-ai-domination/)** · *The Wooster Voice*, 2025
+
+</div>
+
+[More articles →](https://thewoostervoice.spaces.wooster.edu/author/jrueffer26/)
+
 
 <style>
 .project-card {
