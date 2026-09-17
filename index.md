@@ -13,7 +13,7 @@ History, from The College of Wooster. My senior thesis examined how to make para
 selection for CKKS homomorphic encryption more practical in the context of privacy-preserving 
 machine learning.
 
-As Science Section Editor for my college newspaper, I also wrote explainers on AI, privacy, and technology for a general audience, check them out [here](/projects#science-communication)!
+As Science Section Editor for my college newspaper, I also wrote explainers on AI, privacy, and technology for a general audience, check them out [here](/projects#selected-writing)!
 
 ---
 
