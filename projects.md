@@ -25,7 +25,7 @@ Advised by Prof. Alex Nord.
 
 I have since extended this work with additional experiments, and a manuscript is in preparation.
 
-[Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Thesis](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/RuefferJonathan_SeniorIS.pdf) · [Poster](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_Poster_JonathanRueffer.pdf) · [Slides](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_OralPresentation_JonathanRueffer.pdf)
+[Thesis](https://openworks.wooster.edu/independentstudy/13425/) · [Code](https://github.com/jonathan-rueffer/ckks-parameter-selection) · [Poster](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_Poster_JonathanRueffer.pdf) · [Slides](https://github.com/jonathan-rueffer/ckks-parameter-selection/blob/main/docs/IS_Symposium_OralPresentation_JonathanRueffer.pdf)
 
 </div>
 
