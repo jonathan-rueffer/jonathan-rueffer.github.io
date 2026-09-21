@@ -5,15 +5,15 @@ subtitle: M.S. Student in Computer Science · University of Maryland
 share-title: Jonathan Rueffer
 ---
 
-I'm a first-year M.S. student in Computer Science at the University of Maryland,
-broadly interested in the intersection of AI and security.
+I'm a first-year M.S. student in Computer Science at the University of Maryland, passionate about
+the intersection between AI and security. Specifically, one of my interests is in applying cryptographic techniques to make machine learning systems private and secure.
 
 Before UMD, I earned a B.A. in Computer Science and Mathematics, with a minor in
 History, from The College of Wooster. My senior thesis examined how to make parameter 
 selection for CKKS homomorphic encryption more practical in the context of privacy-preserving 
 machine learning.
 
-As Science Section Editor for my college newspaper, I also wrote explainers on AI, privacy, and technology for a general audience, check them out [here](/projects#selected-writing)!
+As Science Section Editor for my college newspaper, I also wrote <a href="/projects#writing" style="text-decoration: underline;">explainers on AI, privacy, and technology</a> for a general audience.
 
 ---
 
@@ -24,7 +24,7 @@ As Science Section Editor for my college newspaper, I also wrote explainers on A
 - **Aug 2026** Started my M.S. in Computer Science at the University of Maryland.
 - **May 2026** Graduated *summa cum laude* from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
 - **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on CKKS parameter selection, and presented it as a talk and a poster at Wooster's 2026 Independent Study Symposium.
-- **May 2026** Inducted into Phi Beta Kappa, the nation's oldest academic honor society.
+- **May 2026** Inducted into Phi Beta Kappa.
 - **May 2026** Inducted into Phi Alpha Theta, the national history honor society.
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
 - **Aug 2025** Completed an IT internship at Nucleonova in Valencia, Spain, building Android and web apps to replace the company's spreadsheet-based inventory system.
@@ -38,7 +38,7 @@ As Science Section Editor for my college newspaper, I also wrote explainers on A
 
 <style>
 .news-scroll {
-  --news-accent: #008AFF;
+  --news-accent: #2b3a4a;
   max-height: 280px;
   overflow-y: auto;
   padding: 0.5rem 0.75rem 2.5rem 0.25rem;
