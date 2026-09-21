@@ -23,15 +23,15 @@ As Science Section Editor for my college newspaper, I also wrote <a href="/proje
 
 - **Aug 2026** Started my M.S. in Computer Science at the University of Maryland.
 - **May 2026** Graduated *summa cum laude* from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
-- **May 2026** Received Honors, Wooster's highest evaluation, for my senior thesis on CKKS parameter selection, and presented it as a talk and a poster at Wooster's 2026 Independent Study Symposium.
+- **May 2026** Received Honors, Wooster's highest evaluation, for my [senior thesis](/projects#automated-parameter-selection-for-privacy-preserving-machine-learning) on CKKS parameter selection, and presented it as a talk and a poster at Wooster's 2026 Independent Study Symposium.
 - **May 2026** Inducted into Phi Beta Kappa.
-- **May 2026** Inducted into Phi Alpha Theta, the national history honor society.
-- **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics, given annually to the student judged most likely to succeed in mathematics.
-- **Aug 2025** Completed an IT internship at Nucleonova in Valencia, Spain, building Android and web apps to replace the company's spreadsheet-based inventory system.
-- **May 2025** Completed my Junior Independent Study, building a music journaling app and using  NLP to analyze journal entries.
-- **Dec 2024** Completed the Budapest Semesters in Mathematics, a study abroad program in advanced mathematics.
-- **Aug 2024** Completed a summer research project with UMD's Laboratory for Physical Sciences on inferring hardware characteristics through microbenchmarking.
-- **Mar 2024** Inducted into Pi Mu Epsilon, the national mathematics honor society.
+- **May 2026** Inducted into Phi Alpha Theta.
+- **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics.
+- **Aug 2025** Completed an [IT internship](/projects#inventory-management-app) abroad at Nucleonova in Valencia, Spain.
+- **May 2025** Completed my [Junior Independent Study](/projects#music-journal-a-platform-for-song-based-memories) at The College of Wooster.
+- **Dec 2024** Completed the Budapest Semesters in Mathematics.
+- **Aug 2024** Completed a [summer research project](/projects#computer-hardware-analysis-for-automated-system-modeling) with UMD's Laboratory for Physical Sciences.
+- **Mar 2024** Inducted into Pi Mu Epsilon.
 
 
 </div>
@@ -74,6 +74,9 @@ As Science Section Editor for my college newspaper, I also wrote <a href="/proje
   border-radius: 50%;
   background: #fff;
   border: 2px solid var(--news-accent);
+}
+.news-scroll a {
+  text-decoration: underline;
 }
 .news-scroll li > strong:first-child {
   display: block;
