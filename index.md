@@ -3,17 +3,17 @@ layout: page
 title: Hi, I'm Jonathan
 subtitle: M.S. Student in Computer Science · University of Maryland
 share-title: Jonathan Rueffer
+header-extra:
+  - contact-bar.html
 ---
 
-I'm a first-year M.S. student in Computer Science at the University of Maryland, passionate about
-the intersection between AI and security. Specifically, one of my interests is in applying cryptographic techniques to make machine learning systems private and secure.
+I'm a first-year M.S. student in Computer Science at UMD with an interest in building AI systems that are secure, private, and trustworthy. I'm especially drawn to exploring and applying cryptographic approaches, such as those used in privacy-preserving machine learning.
 
-Before UMD, I earned a B.A. in Computer Science and Mathematics, with a minor in
-History, from The College of Wooster. My senior thesis examined how to make parameter 
-selection for CKKS homomorphic encryption more practical in the context of privacy-preserving 
-machine learning.
+Before UMD, I earned a B.A. in Computer Science and Mathematics, with a minor in History, from The College of Wooster. For my senior thesis, I developed a data-driven framework for selecting parameters for CKKS homomorphic encryption. The scheme lets machine learning models run on data that stays encrypted, so that a hospital, for example, could use a third-party model without exposing patient records.
 
-As Science Section Editor for my college newspaper, I also wrote <a href="/projects#writing" style="text-decoration: underline;">explainers on AI, privacy, and technology</a> for a general audience.
+Outside of research, I build software that solves real problems for real users, from full-stack web applications to mobile apps. 
+
+I also enjoy making technical ideas accessible. As Science Section Editor for *The Wooster Voice*, my college's student newspaper, I wrote <a href="/projects#writing" style="text-decoration: underline;">explainers on AI, privacy, and technology</a> for a general audience.
 
 ---
 
@@ -21,6 +21,7 @@ As Science Section Editor for my college newspaper, I also wrote <a href="/proje
 
 <div class="news-scroll" markdown="1">
 
+- **Sep 2026** Selected for the AI Security Fundamentals Fellowship with the Maryland AI Safety Initiative at UMD.
 - **Aug 2026** Started my M.S. in Computer Science at the University of Maryland.
 - **May 2026** Graduated *summa cum laude* from The College of Wooster with a B.A. in Computer Science and Mathematics, earning departmental honors in both.
 - **May 2026** Received Honors, Wooster's highest evaluation, for my [senior thesis](/projects#automated-parameter-selection-for-privacy-preserving-machine-learning) on CKKS parameter selection, and presented it as a talk and a poster at Wooster's 2026 Independent Study Symposium.
@@ -29,7 +30,7 @@ As Science Section Editor for my college newspaper, I also wrote <a href="/proje
 - **Feb 2026** Awarded The College of Wooster's Elizabeth Sidwell Wagner Prize in Mathematics.
 - **Aug 2025** Completed an [IT internship](/projects#inventory-management-app) abroad at Nucleonova in Valencia, Spain.
 - **May 2025** Completed my [Junior Independent Study](/projects#music-journal-a-platform-for-song-based-memories) at The College of Wooster.
-- **Dec 2024** Completed the Budapest Semesters in Mathematics.
+- **Dec 2024** Completed the Budapest Semesters in Mathematics study abroad program.
 - **Aug 2024** Completed a [summer research project](/projects#computer-hardware-analysis-for-automated-system-modeling) with UMD's Laboratory for Physical Sciences.
 - **Mar 2024** Inducted into Pi Mu Epsilon.
 
@@ -37,8 +38,22 @@ As Science Section Editor for my college newspaper, I also wrote <a href="/proje
 </div>
 
 <style>
+.header-section {
+  background: linear-gradient(135deg, #1b2a4a 0%, #2c4a7c 55%, #34496e 100%);
+  padding-top: 0.1px;
+}
+.intro-header {
+  padding-bottom: 1.5rem;
+}
+.intro-header .page-heading h1,
+.intro-header .page-subheading {
+  color: #fff;
+}
+.intro-header .page-heading hr.small {
+  border-color: #fff;
+}
 .news-scroll {
-  --news-accent: #2b3a4a;
+  --news-accent: #2c4a7c;
   max-height: 280px;
   overflow-y: auto;
   padding: 0.5rem 0.75rem 2.5rem 0.25rem;

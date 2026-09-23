@@ -125,7 +125,7 @@ h2 {
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: #1a1a1a;
+  color: #2c4a7c;
 }
 h2:first-of-type {
   margin-top: 1.5rem;
@@ -215,7 +215,8 @@ h2:first-of-type {
   padding-right: 0;
 }
 .project-links a:hover {
-  text-decoration-color: #1a1a1a;
+  color: #2c4a7c;
+  text-decoration-color: #2c4a7c;
 }
 .writing-list {
   list-style: none;
@@ -244,6 +245,7 @@ h2:first-of-type {
   text-decoration: none;
 }
 .writing-list a:hover {
+  color: #2c4a7c;
   text-decoration: underline;
   text-underline-offset: 3px;
 }

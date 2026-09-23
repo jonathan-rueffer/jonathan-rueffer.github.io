@@ -49,7 +49,7 @@ round-avatar: true
 social-network-links:
   email: "jonathan.rueffer001@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  linkedin: "https://www.linkedin.com/in/jonathan-rueffer/"
+  linkedin: "jonathan-rueffer"
   github: "https://github.com/jonathan-rueffer"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -128,16 +128,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#2b3a4a"
-hover-col: "#000000"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+text-col: "#333333"
+link-col: "#2c4a7c"
+hover-col: "#1b2a4a"
+navbar-col: "#F4F5F7"
+navbar-text-col: "#333333"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#F4F5F7"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#2b3a4a"
+footer-link-col: "#333333"
+footer-hover-col: "#2c4a7c"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
